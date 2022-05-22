@@ -1,2 +1,2 @@
-# Computational Genomics 
+# Computational xGenomics 
 Computational Biology - x-Genomics 
