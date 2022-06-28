@@ -4,8 +4,9 @@
 
 Computational notebooks describe how to interface with chemical and biological databases. 
 
+* [ChEMBL](https://github.com/khanfs/ComputationalBiology-xGenomics/blob/main/ChEMBL_API.ipynb)
 * [RSCB Protein Data Bank](https://github.com/khanfs/ComputationalBiology-xGenomics/blob/main/PDB_APIs.ipynb) 
-* [NCBI Entrez database](https://github.com/khanfs/ComputationalBiology-xGenomics/blob/main/PDB_APIs.ipynb) 
+* [NCBI Entrez Database](https://github.com/khanfs/ComputationalBiology-xGenomics/blob/main/PDB_APIs.ipynb) 
 
 ### Databases
 
