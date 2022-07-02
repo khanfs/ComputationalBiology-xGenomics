@@ -14,5 +14,5 @@ Computational notebooks describe how to interface with chemical and biological d
 ### Databases
 
 * [NCBI Datasets](https://www.ncbi.nlm.nih.gov/datasets/docs/v1/reference-docs/data-packages/)
-* [National Centre for Biotechnology Information (NCBI) Databases](https://www.ncbi.nlm.nih.gov/guide/all/)
+* [NCBI Databases](https://www.ncbi.nlm.nih.gov/guide/all/)
 * [Reactome](https://reactome.org/)
