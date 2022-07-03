@@ -1,6 +1,6 @@
 # Database APIs, Packages, Modules, Libraries and Tools 
 
-### Database APIs Notebooks
+### 1. Database APIs Notebooks
 
 Computational notebooks describe how to interface with chemical and biological databases. 
 
@@ -11,7 +11,7 @@ Computational notebooks describe how to interface with chemical and biological d
 * [Reactome](https://github.com/khanfs/ComputationalBiology-xGenomics/blob/main/REACTOME_APIs.ipynb)
 * [Reactome-Neo4j](https://github.com/khanfs/ComputationalBiology-xGenomics/blob/main/Reactome_Neo4j_API.ipynb)
 
-### Databases
+### 2. Databases
 
 * [NCBI Datasets](https://www.ncbi.nlm.nih.gov/datasets/docs/v1/reference-docs/data-packages/)
 * [NCBI Databases](https://www.ncbi.nlm.nih.gov/guide/all/)
